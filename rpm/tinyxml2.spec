@@ -22,6 +22,9 @@ TinyXML-2 uses a similar API to TinyXML-1, But the implementation of the
 parser was completely re-written to make it more appropriate for use in a
 game. It uses less memory, is faster, and uses far fewer memory allocations.
 
+Categories:
+  - Library
+
 %package devel
 Summary:        Development files for %{name}
 Group:          Development/Libraries
