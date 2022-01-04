@@ -58,7 +58,6 @@ rm -rf %{buildroot}
 
 %files
 %doc readme.md
-%{_libdir}/lib%{name}.so.%{version}
 %{_libdir}/lib%{name}.so.*
 
 %files devel
